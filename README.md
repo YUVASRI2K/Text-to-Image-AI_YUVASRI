@@ -1,6 +1,6 @@
-# 🖼️ Stable Diffusion Image Generation in Google Colab  
+# 🖼️ Stable Diffusion Image Generation
 
-This project demonstrates how to use **Stable Diffusion (runwayml/stable-diffusion-v1-5)** for **text-to-image generation** in **Google Colab**.  
+This project demonstrates how to use **Stable Diffusion (runwayml/stable-diffusion-v1-5)** for **text-to-image generation**  
 
 ## 🚀 Features  
 - Generate high-quality images from text prompts  
